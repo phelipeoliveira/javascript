@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-/*font-family: 'Press Start 2P', cursive;*/
-
 body {
     background-color: rgb(36, 7, 7);
 }
@@ -19,21 +15,7 @@ body {
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background: linear-gradient(#00bbff, #abe7ff);
-}
-
-h1 {
-    font-family: 'Press Start 2P', cursive;
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    font-size: 1.5em;
-}
-
-.high {
-    font-family: 'Press Start 2P', cursive;
-    color: white;
-    text-align: right;
+    background: linear-gradient(#87CEE8, #E0f6FF);
 }
 
 .pipe {
